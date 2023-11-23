@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>MK Kitchen Equipment and Supplies - Stone Bowl Support #2</title>
+<title>MK Kitchen Equipment and Supplies - La Spaziale Coffee Machine S1 Mini Vivaldi</title>
 <meta name="description" content="MK Kitchen in Manila, Philippines is a leading kitchen equipment and supplies provider of cookware, utensils, coffee machine, kitchen ventilation for hotels, restaurants, food and dining establishments.">
 <meta name="keywords" content="kitchen equipment, kichen supplies, hotels, food and dining, utensils, cookware, dinnerware, kitchen ventilation, coffee machines">
 <meta name="author" content="MK Kitchen and Hotel Equipment and Supplies, Philippines, Metro Manila">
@@ -2146,14 +2146,14 @@
 <!-- 현재위치표시 -->
 
 			<div style='background-color:#F5F5F5;border:1px solid #dddddd;padding:5px 5px 5px 10px;text-align:left'>
-				<img src='./admin/img/icon_folder01.gif'>&nbsp;&nbsp;&nbsp;<a href="index.php" class=category_m>HOME</a> > <select onchange="location.href=this.value"><option value='m_mall_list.php?ps_ctid=04000000' >Equipment</option><option value='m_mall_list.php?ps_ctid=06000000' >Refrigeration</option><option value='m_mall_list.php?ps_ctid=09000000' >Preparation</option><option value='m_mall_list.php?ps_ctid=10000000' >Food Processing</option><option value='m_mall_list.php?ps_ctid=02000000' >Cooking and Warming</option><option value='m_mall_list.php?ps_ctid=11000000' >Miscellaneous</option><option value='m_mall_list.php?ps_ctid=07000000' selected>Dish, Bowl</option><option value='m_mall_list.php?ps_ctid=12000000' >Spoon, Cutlery</option><option value='m_mall_list.php?ps_ctid=01000000' >Cup, Glass, Bottle</option><option value='m_mall_list.php?ps_ctid=05000000' >Knife, Scissors, Chopping Board</option><option value='m_mall_list.php?ps_ctid=03000000' >Ladle, Turner, Tong</option><option value='m_mall_list.php?ps_ctid=13000000' >Food Pan, Container, Stock Pot</option><option value='m_mall_list.php?ps_ctid=14000000' >Casserole Pot, Pan, Wok, Grill</option><option value='m_mall_list.php?ps_ctid=15000000' >Cleaning, Measuring, Cart</option><option value='m_mall_list.php?ps_ctid=16000000' >Others</option><option value='m_mall_list.php?ps_ctid=17000000' >Bakery and Pastry Items</option><option value='m_mall_list.php?ps_ctid=18000000' >Coffee and Cafe / Bar Items</option><option value='m_mall_list.php?ps_ctid=19000000' >Hotel and Restaurant Items</option></select>
+				<img src='./admin/img/icon_folder01.gif'>&nbsp;&nbsp;&nbsp;<a href="index.php" class=category_m>HOME</a> > <select onchange="location.href=this.value"><option value='m_mall_list.php?ps_ctid=04000000' >Equipment</option><option value='m_mall_list.php?ps_ctid=06000000' >Refrigeration</option><option value='m_mall_list.php?ps_ctid=09000000' >Preparation</option><option value='m_mall_list.php?ps_ctid=10000000' selected>Food Processing</option><option value='m_mall_list.php?ps_ctid=02000000' >Cooking and Warming</option><option value='m_mall_list.php?ps_ctid=11000000' >Miscellaneous</option><option value='m_mall_list.php?ps_ctid=07000000' >Dish, Bowl</option><option value='m_mall_list.php?ps_ctid=12000000' >Spoon, Cutlery</option><option value='m_mall_list.php?ps_ctid=01000000' >Cup, Glass, Bottle</option><option value='m_mall_list.php?ps_ctid=05000000' >Knife, Scissors, Chopping Board</option><option value='m_mall_list.php?ps_ctid=03000000' >Ladle, Turner, Tong</option><option value='m_mall_list.php?ps_ctid=13000000' >Food Pan, Container, Stock Pot</option><option value='m_mall_list.php?ps_ctid=14000000' >Casserole Pot, Pan, Wok, Grill</option><option value='m_mall_list.php?ps_ctid=15000000' >Cleaning, Measuring, Cart</option><option value='m_mall_list.php?ps_ctid=16000000' >Others</option><option value='m_mall_list.php?ps_ctid=17000000' >Bakery and Pastry Items</option><option value='m_mall_list.php?ps_ctid=18000000' >Coffee and Cafe / Bar Items</option><option value='m_mall_list.php?ps_ctid=19000000' >Hotel and Restaurant Items</option></select>&nbsp;&nbsp;>&nbsp;&nbsp;<select onchange="location.href=this.value"><option value='m_mall_list.php?ps_ctid=10090000' >Flour Processing</option><option value='m_mall_list.php?ps_ctid=10100000' >Meat Processing</option><option value='m_mall_list.php?ps_ctid=10110000' >Vegetable Processing</option><option value='m_mall_list.php?ps_ctid=10120000' >Ice Machine</option><option value='m_mall_list.php?ps_ctid=10130000' selected>Beverages Machine</option><option value='m_mall_list.php?ps_ctid=10140000' >Instant Food Processing</option><option value='m_mall_list.php?ps_ctid=10150000' >Others</option></select>&nbsp;&nbsp;>&nbsp;&nbsp;<select onchange="location.href=this.value"><option value='m_mall_list.php?ps_ctid=10130100' >Juice Dispenser</option><option value='m_mall_list.php?ps_ctid=10130200' >Slush Machine</option><option value='m_mall_list.php?ps_ctid=10130300' >Juice Squeezer</option><option value='m_mall_list.php?ps_ctid=10130400' selected>Espresso Machine</option><option value='m_mall_list.php?ps_ctid=10130500' >Coffee Grinder</option><option value='m_mall_list.php?ps_ctid=10130600' >Coffee Roaster</option><option value='m_mall_list.php?ps_ctid=10130700' >Milk shaker</option></select>
 			</div>
 			<div style="height:10px"></div>
 		
 
 <form name="goods" method="post" action="m_cart.php" style="margin:0">
-<input type="hidden" name="ps_ctid" value="07110000">
-<input type="hidden" name="ps_goid" value="2967">
+<input type="hidden" name="ps_ctid" value="10130400">
+<input type="hidden" name="ps_goid" value="738">
 <input type="hidden" name="ps_select"  value="C">
 <input type="hidden" name="out_buy" value="">
 <input type="hidden" name="pre_co_idx"  value="">
@@ -2168,7 +2168,7 @@
 	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr> 
 		  <td align="center">
-			<img src='./shop_image/202207/0315%281%29.jpg' name='mainImage' width="300" height="300" onerror='this.src="skin/basic/image/noimage2.gif"'  onclick="show_image('2967','./shop_image/202207/0315(2).jpg','530','590')" style="cursor:pointer" >
+			<img src='./shop_image/201604/S1_Vivaldi%281%29.jpg' name='mainImage' width="300" height="300" onerror='this.src="skin/basic/image/noimage2.gif"'  onclick="show_image('738','./shop_image/201604/S1_vivaldi.jpg','530','590')" style="cursor:pointer" >
 		  </td>
 		</tr>
 		<tr> 
@@ -2193,10 +2193,10 @@
 		<tr>
 		  <td align="center" style="padding-top:12px">
 
-			  <img src='skin/basic/image/H_goodsview_back.gif' ><!--이전상품버튼 -->
-			  <a href="javascript:show_image('2967','./shop_image/202207/0315(2).jpg','530','590');"><img src="skin/basic/image/H_goodsview_zoom.gif"></a><!-- 확대보기버튼 -->
+			  <img src='skin/basic/image/H_goodsview_back.gif' onclick="location.href='m_mall_detail.php?ps_goid=1806'" style='cursor:pointer'><!--이전상품버튼 -->
+			  <a href="javascript:show_image('738','./shop_image/201604/S1_vivaldi.jpg','530','590');"><img src="skin/basic/image/H_goodsview_zoom.gif"></a><!-- 확대보기버튼 -->
 			  <!-- 동영상버튼 -->
-			  <img src='skin/basic/image/H_goodsview_next.gif' onclick="location.href='m_mall_detail.php?ps_goid=2966'" style='cursor:pointer'><!-- 다음상품버튼 -->
+			  <img src='skin/basic/image/H_goodsview_next.gif' onclick="location.href='m_mall_detail.php?ps_goid=739'" style='cursor:pointer'><!-- 다음상품버튼 -->
 
 			  
 
@@ -2209,7 +2209,7 @@
 <!--------------------- 우측내용 영역  --------------------->
 	  <!-- <div style="padding-bottom:7px;font-size:14px;font-weight:bolder"> -->
 	  <h1>
-			Stone Bowl Support #2<!-- 상품명 -->
+			La Spaziale Coffee Machine S1 Mini Vivaldi<!-- 상품명 -->
 	  </h1>
 	  <div style="padding-bottom:7px;font-size:14px;font-weight:bolder">
 			<!-- 무료배송아이콘 -->
@@ -2249,7 +2249,7 @@
 			<tr>
 				<td class='tb_1'>Item Code&nbsp;&nbsp;:</td>
 				<td class='tb_2'>
-					01003154				</td>
+					0106936 (red); 0106937 (black)				</td>
 			</tr>
 			-->
 					  </table>
@@ -2267,8 +2267,8 @@
 			<tr>
 				<td class='tb_1'>SNS&nbsp;&nbsp;:</td>
 				<td class='tb_2'>
-					<img src="skin/basic/image/H_sn_bt1.gif" onclick="goFaceBook('Stone Bowl Support #2','http://www.mkphil.com/mall/m_mall_detail.php?ps_goid=2967')" style="cursor:pointer">
-					<img src="skin/basic/image/H_sn_bt2.gif" onclick="goTwitter('Stone Bowl Support #2','http://www.mkphil.com/mall/m_mall_detail.php?ps_goid=2967')" style="cursor:pointer">
+					<img src="skin/basic/image/H_sn_bt1.gif" onclick="goFaceBook('La Spaziale Coffee Machine S1 Mini Vivaldi','http://www.mkphil.com/mall/m_mall_detail.php?ps_goid=738')" style="cursor:pointer">
+					<img src="skin/basic/image/H_sn_bt2.gif" onclick="goTwitter('La Spaziale Coffee Machine S1 Mini Vivaldi','http://www.mkphil.com/mall/m_mall_detail.php?ps_goid=738')" style="cursor:pointer">
 				</td>
 			</tr>
 			-->
@@ -2345,7 +2345,9 @@
 		
 
 		<!-- 상품상세설명 -->
-		<p>&nbsp;</p>
+		<p style="margin: 0px"><br />&nbsp;</p>
+<div style="text-align: center"><img style="width: 886px; height: 645px" alt="6936.jpg" src="/mall/cheditor/attach/20200714154745_pbzimmfp.jpg" /></div>
+<p style="margin: 0px"><br />&nbsp;</p>
 		<!-- 상품상세공통내용 -->
 				<!--// 상품상세공통내용 -->
 </div>
@@ -2547,7 +2549,7 @@ wcs_do();
 <!--
  SHOPINGMALL PROGRAM 
 
- Total Program Operation Time : 0.2130
+ Total Program Operation Time : 0.2429
 -->
 
 
